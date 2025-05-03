@@ -17,3 +17,5 @@ Connects to the holder via a user-defined rotation angle (default 90°), allowin
 Extends 15mm past the second standoff to provide additional support or alignment flexibility.
 
 The design ensures a snug, durable fit for XT60 connectors while enabling clean integration with existing drone frames using standard M3 hardware. The modular structure allows for parameter adjustments to match specific layout or frame constraints.
+
+![XT60 mount](./xt60mount.png)
