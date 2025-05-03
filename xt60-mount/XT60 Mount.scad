@@ -4,7 +4,7 @@ standoff_spacing = 26;      // Distance between standoffs (mm)
 extension_length = 15;      // How far base extends beyond second standoff (mm)
 base_width = 10;            // Width of the base (left-right, X)
 base_thickness = 5;         // Thickness of the base (up-down, Z)
-hole_diameter = 5.1;        // Diameter of standoff holes (mm)
+hole_diameter = 5.2;        // Diameter of standoff holes (mm)
 
 // XT60 holder parameters
 xt60_holder_length = 12;    // Depth (front-back, Y)
